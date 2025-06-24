@@ -3,11 +3,15 @@ AI NEWS SUMMARIZER
 An ML-powered news article summarizer application in Python which is available in GUI version. It lets the user paste or enter raw links or text of a news article. The app generates a summary of what is being read using a transformer model, and has the ability to read the summary or save it to a file.
 
 FEATURES
-✔ Summarization of News Articles from URL
-✔ Condense user-pasted news summaries
-✔ Save the summary as a. txt file
-✔ Read Listen to summaryciThe summary cited.EventTypeCOVID-19COVID-19 in immune neglected diseasesCOVID-19 in immune neglected diseasesSummaryThe COVID-19 pandemic has taken an immense and tragic human toll.
-✔ Graphical interface with Tkinter easy to use.
+- Summarization of News Articles from URL
+  
+- Condense user-pasted news summaries
+  
+- Save the summary as a. txt file
+- 
+- Read Listen to summaryciThe summary cited.EventTypeCOVID-19COVID-19 in immune neglected diseasesCOVID-19 in immune neglected diseasesSummaryThe COVID-19 pandemic has taken an immense and tragic human toll.
+- 
+- Graphical interface with Tkinter easy to use.
 
 REQUIREMENTS
 Python 3.7 or higher
