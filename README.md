@@ -8,9 +8,9 @@ FEATURES
 - Condense user-pasted news summaries
   
 - Save the summary as a. txt file
-- 
+  
 - Read Listen to summaryciThe summary cited.EventTypeCOVID-19COVID-19 in immune neglected diseasesCOVID-19 in immune neglected diseasesSummaryThe COVID-19 pandemic has taken an immense and tragic human toll.
-- 
+  
 - Graphical interface with Tkinter easy to use.
 
 REQUIREMENTS
