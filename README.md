@@ -1,6 +1,6 @@
 AI NEWS SUMMARIZER
 
-An ML-powered news article summarizer application in Python which is available in GUI version. It lets the user paste or enter raw links or text of a news article. The app generates a summary of what is being read using a transformer model, and has the ability to read the summary or save it to a file.
+An AI-powered news article summarizer application in Python which is available in GUI version. It lets the user paste or enter raw links or text of a news article. The app generates a summary of what is being read using a transformer model, and has the ability to read the summary or save it to a file.
 
 FEATURES
 - Summarization of News Articles from URL
